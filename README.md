@@ -29,7 +29,7 @@
 ## Input Image Requirements:
 
 1. Use PNG for more accurate results.
-2. Image must be 800m by 800m (64 hectares).
+2. Image must be of a 64 hectare (800m by 800m) plot of land.
 3. Hue will need to be adjusted according to the image (Example images and hues can be found in the test_image directory).
 
 
