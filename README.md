@@ -34,7 +34,7 @@
 
 ## Output:
 
-The program outputs 
+The program outputs:
 * an image with tree areas surrounded by either green or red
 * the final area
 
