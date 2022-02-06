@@ -41,7 +41,7 @@ In  `TreeDetectionAlgorithm.py`
 Run the program.
 
 ## Output:
-<p>
+
 The program outputs:
 * an image with tree areas surrounded by either green or red
 * the final area
@@ -49,13 +49,6 @@ The program outputs:
 The areas in green are less than 1 hectare and are included in the final area.
 
 The areas in red are larger than 1 hectare, which are not included in the final area.
-</p>
-<p>
-<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png" align="left" height="200" width="200">
-<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse_Output.png" align="left" height="200" width="200">
-</p>
-<br/>
-
 
 ### Example Output:
 ```
@@ -64,6 +57,11 @@ Area of trees in pixels: 53451.5
 Area of trees in hectares: 3.100272063714748
 Percentage of area covered by trees: 4.84 %
 ```
+<p>
+<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png" align="left" height="200" width="200">
+<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse_Output.png" align="left" height="200" width="200">
+</p>
+
 
 ## Contributors:
 
