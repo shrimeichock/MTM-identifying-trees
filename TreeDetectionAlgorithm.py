@@ -11,7 +11,7 @@ import cv2
 import numpy as np
 import matplotlib.pyplot as plt
 
-ACRES_IN_PLOT = 64
+HECTARES_IN_PLOT = 64
 
 img = cv2.imread('image2.png') #must be png
 
@@ -30,7 +30,7 @@ tree_area = 0
 height, width, channels = img.shape
 print(f"Size of image in pixels: {height} x {width}")
 total_area_plot = height*width
-hectare_size = total_area_plot/ACRES_IN_PLOT #area in pixels of 1 hectare
+hectare_size = total_area_plot/HECTARES_IN_PLOT #area in pixels of 1 hectare
 
 for cnt in contours:
     if cv2.contourArea(cnt) < hectare_size: #replace with # pixels for 1 hectare
