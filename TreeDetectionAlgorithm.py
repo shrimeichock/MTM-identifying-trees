@@ -1,8 +1,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Feb  5 13:57:53 2022
-@author: user
+
+@authors: Shrimei Chock, Maisha Abdullah, Thanuja Sivaanathan
+
 Source: https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/ 
+Source: https://stackoverflow.com/questions/55544388/how-can-i-calculate-the-area-inside-non-contiguous-shapes-in-an-image
+Source: https://stackoverflow.com/questions/46491643/find-area-of-cv2-findcontours-python-opencv?fbclid=IwAR33h-jPe5MAaAGe53r7rbYjJ_aAHSTmwvkWlVz0g6va7_xqN9Dwe5YtYWY
 """
 
 import cv2
@@ -11,7 +15,7 @@ import matplotlib.pyplot as plt
 
 ACRES_IN_PLOT = 64
 
-img = cv2.imread('LotsOFTrees.png') #must be png
+img = cv2.imread('image2.png') #must be png
 
 #plt.imshow(img)
 #grid_RGB = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
