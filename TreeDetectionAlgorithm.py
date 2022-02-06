@@ -50,8 +50,9 @@ for cnt in contours:
     else:
         cv2.drawContours(img,[cnt],-1,(200,0,0),2) #outline in red
 
-print("Area of trees in pixels:", tree_area) 
+print("Area of trees in pixels:", tree_area)
 percentage = tree_area/total_area_plot
+print("Area of trees in hectares:", tree_area/hectare_size)
 print("Percentage of area covered by trees:",round(percentage*100,2), "%") 
 
 plt.imshow(img) #show green image
