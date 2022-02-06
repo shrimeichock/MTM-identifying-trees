@@ -4,7 +4,7 @@
 
 ## Steps:
 
-1. Download Anaconda https://www.anaconda.com/products/individual
+1. Download Anaconda: https://www.anaconda.com/products/individual
 2. In the Anacona Prompt, enter the following commands:
 
     Create a python environment
@@ -34,7 +34,7 @@
 
 ## How to Run the code:
 
-In  `TreeDetectionAlgorithm.py`
+In  `TreeDetectionAlgorithm.py`:
 * update `img = cv2.imread("image.PNG")` with the image filename/filepath. (For example `img = cv2.imread("test-images\OnePlot.PNG")`)
 * adjust `lower_color = np.array([40, 20, 0])` with the corresponding Hue (the first number)
 
@@ -44,9 +44,10 @@ Run the program.
 
 The program outputs:
 * an image with tree areas surrounded by either green or red
-* the final area
+* the final area (in both pixels and hectares)
+* the percentage of the final tree area
 
-The areas in green are less than 1 hectare and are included in the final area.
+The areas in green are less than 1 hectare, which and are included in the final area.
 
 The areas in red are larger than 1 hectare, which are not included in the final area.
 
