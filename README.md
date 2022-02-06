@@ -59,12 +59,11 @@ Area of trees in hectares: 3.100272063714748
 Percentage of area covered by trees: 4.84 %
 ```
 <p>
-<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png" align="left" height="200" width="200"/>
-<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse_Output.png" align="left" height="200" width="200"/>
-</p>  <br/>
+<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png" align="center" height="200" width="200"/>
+<img src="https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse_Output.png" align="center" height="200" width="200"/>
+</p>
 
 ## Contributors:
-
 * Shrimei Chock
 * Maisha Abdullah
 * Thanuja Sivaananthan
@@ -73,3 +72,4 @@ Percentage of area covered by trees: 4.84 %
 * Detect Objects of similar colour: https://techvidvan.com/tutorials/detect-objects-of-similar-color-using-opencv-in-python/ 
 * Calculate area of non-contiguous shape: https://stackoverflow.com/questions/55544388/how-can-i-calculate-the-area-inside-non-contiguous-shapes-in-an-image
 * Find area of a contour: https://stackoverflow.com/questions/46491643/find-area-of-cv2-findcontours-python-opencv?fbclid=IwAR33h-jPe5MAaAGe53r7rbYjJ_aAHSTmwvkWlVz0g6va7_xqN9Dwe5YtYWY
+
