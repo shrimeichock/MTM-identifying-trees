@@ -50,7 +50,7 @@ The areas in green are less than 1 hectare and are included in the final area.
 
 The areas in red are larger than 1 hectare, which are not included in the final area.
 
-![alt text](https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png)
+![alt text](https://github.com/thanujasiva/MTM-identifying-trees/blob/main/test-images/IsolatedHouse.png =250x250)
 
 
 ### Example Output:
