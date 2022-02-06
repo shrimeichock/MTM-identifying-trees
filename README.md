@@ -1,5 +1,6 @@
 # MTM-identifying-trees
 
+## About the project:
 
 ## Steps:
 
