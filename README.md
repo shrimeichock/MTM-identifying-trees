@@ -1,6 +1,6 @@
 # Tree-Identification-Algorithm
 
-Competed against 90 teams and placed **3rd** 🏆 overall in the **CanDev** hackathon!!🎉
+Competed against 90 teams and placed **1st** 🥇 in the Agriculture and Agri-food Canada (AAFC) challenge and **3rd** 🏆 overall in the **CanDev Data Challenge** hackathon!
 
 ## Task
 We need your help to develop an algorithm to identify and extract the tree crowns and/or a row of trees in and around Canadian croplands. Trees in croplands serve as sinks of carbon and play a significant role in mitigating climate change. We are interested in monitoring the changes in tree distribution to quantify carbon losses or gains in croplands.
