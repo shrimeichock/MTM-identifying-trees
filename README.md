@@ -1,4 +1,4 @@
-# MTM-identifying-trees
+# Tree-Identification-Algorithm
 
 ## Task
 We need your help to develop an algorithm to identify and extract the tree crowns and/or a row of trees in and around Canadian croplands. Trees in croplands serve as sinks of carbon and play a significant role in mitigating climate change. We are interested in monitoring the changes in tree distribution to quantify carbon losses or gains in croplands.
